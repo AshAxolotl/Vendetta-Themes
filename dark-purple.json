@@ -60,7 +60,7 @@
             "#220e58"
         ],
         "CONTROL_BRAND_FOREGROUND": [
-            "#220e58"
+            "#9e0c0c"
         ],
         "CHANNEL_ICON": [
             "#666666"
@@ -104,12 +104,12 @@
         "BRAND_630": "#220e58",
         "BRAND_660": "#220e58",
         "BRAND_700": "#220e58",
-        "BRAND_730": "#9e0c0c",
-        "BRAND_760": "#9e0c0c",
-        "BRAND_800": "#9e0c0c",
-        "BRAND_830": "#9e0c0c",
-        "BRAND_860": "#9e0c0c",
-        "BRAND_900": "#9e0c0c",
+        "BRAND_730": "#1d0d48",
+        "BRAND_760": "#190b42",
+        "BRAND_800": "#170b39",
+        "BRAND_830": "#11072c",
+        "BRAND_860": "#11072c",
+        "BRAND_900": "#080416",
         "YELLOW_300": "##220e58",
         "RED_400": "#220e58",
         "GREEN_360": "#0b646b"
