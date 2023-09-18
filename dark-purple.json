@@ -60,7 +60,7 @@
             "#220e58"
         ],
         "CONTROL_BRAND_FOREGROUND": [
-            "#9e0c0c"
+            "#441daf"
         ],
         "CHANNEL_ICON": [
             "#666666"
@@ -78,7 +78,7 @@
             "#220e58"
         ],
         "TEXT_DANGER": [
-            "#9e0c0c"
+            "#761111"
         ]
     },
     "rawColors": {
