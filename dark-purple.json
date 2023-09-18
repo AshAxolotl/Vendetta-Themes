@@ -79,6 +79,12 @@
         ],
         "TEXT_DANGER": [
             "#761111"
+        ],
+        "SPOILER_HIDDEN_BACKGROUND": [
+            "#220e58"
+        ],
+        "SPOILER_REVEALED_BACKGROUND": [
+            "#11072c"
         ]
     },
     "rawColors": {
@@ -97,7 +103,7 @@
         "BRAND_400": "#4c20c5",
         "BRAND_430": "#441daf",
         "BRAND_460": "#3b199a",
-        "BRAND_500": "#331584",
+        "BRAND_500": "#7750e2",
         "BRAND_530": "#2a126e",
         "BRAND_560": "#220e58",
         "BRAND_600": "#220e58",
