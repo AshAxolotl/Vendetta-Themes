@@ -1,6 +1,6 @@
 {
-    "name": "Ashs Dark purple",
-    "description": "a dark theme made by ash.",
+    "name": "Ashs's Dark",
+    "description": "a dark theme made by ash",
     "authors": [
         {
             "name": "AshAxolotl",
@@ -57,7 +57,7 @@
             "#56adbc"
         ],
         "TEXT_BRAND": [
-            "#220e58"
+            "#331584"
         ],
         "CONTROL_BRAND_FOREGROUND": [
             "#220e58"
@@ -73,6 +73,12 @@
         ],
         "INTERACTIVE_ACTIVE": [
             "#f2f2f2"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#220e58"
+        ],
+        "TEXT_DANGER": [
+            "#9e0c0c"
         ]
     },
     "rawColors": {
@@ -105,7 +111,7 @@
         "BRAND_860": "#11072c",
         "BRAND_900": "#080416",
         "YELLOW_300": "##220e58",
-        "RED_400": "#220e58",
+        "RED_400": "#997bea",
         "GREEN_360": "#0b646b"
     },
     "spec": 2
