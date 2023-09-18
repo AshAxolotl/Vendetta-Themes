@@ -57,7 +57,7 @@
             "#56adbc"
         ],
         "TEXT_BRAND": [
-            "#331584"
+            "#220e58"
         ],
         "CONTROL_BRAND_FOREGROUND": [
             "#220e58"
@@ -89,7 +89,7 @@
         "BRAND_160": "#ccbdf4",
         "BRAND_200": "#bba7f1",
         "BRAND_230": "#aa91ed",
-        "BRAND_260": "#997bea",
+        "BRAND_260": "#9e0c0c",
         "BRAND_300": "#8865e6",
         "BRAND_330": "#7750e2",
         "BRAND_345": "#663adf",
