@@ -1,0 +1,112 @@
+{
+    "name": "Ashs's Dark",
+    "description": "a dark theme made by ash",
+    "authors": [
+        {
+            "name": "AshAxolotl",
+            "id": "461084048337403915"
+        }
+    ],
+    "semanticColors": {
+        "CHAT_BACKGROUND": [
+            "#1f1f1f"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#1f1f1f"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#161616"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#262626"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#0f0f0f"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#0f0f0f"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#1f1f1f"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#161616"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#161616"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#262626"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "#f9267210"
+        ],
+        "BACKGROUND_MESSAGE_HIGHLIGHT": [
+            "#66d9ef10"
+        ],
+        "HEADER_PRIMARY": [
+            "#f2f2f2"
+        ],
+        "HEADER_SECONDARY": [
+            "#dddddd"
+        ],
+        "TEXT_NORMAL": [
+            "#f2f2f2"
+        ],
+        "TEXT_LINK": [
+            "#56adbc"
+        ],
+        "TEXT_BRAND": [
+            "#220e58"
+        ],
+        "CONTROL_BRAND_FOREGROUND": [
+            "#220e58"
+        ],
+        "CHANNEL_ICON": [
+            "#666666"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#666666"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#666666"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#f2f2f2"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_600": "#1f1f1f",
+        "PRIMARY_500": "#363636",
+        "BRAND_100": "#fff6f9",
+        "BRAND_130": "#ddd3f8",
+        "BRAND_160": "#ccbdf4",
+        "BRAND_200": "#bba7f1",
+        "BRAND_230": "#aa91ed",
+        "BRAND_260": "#997bea",
+        "BRAND_300": "#8865e6",
+        "BRAND_330": "#7750e2",
+        "BRAND_345": "#663adf",
+        "BRAND_360": "#5524db",
+        "BRAND_400": "#4c20c5",
+        "BRAND_430": "#441daf",
+        "BRAND_460": "#3b199a",
+        "BRAND_500": "#331584",
+        "BRAND_530": "#2a126e",
+        "BRAND_560": "#220e58",
+        "BRAND_600": "#220e58",
+        "BRAND_630": "#220e58",
+        "BRAND_660": "#220e58",
+        "BRAND_700": "#220e58",
+        "BRAND_730": "#1d0d48",
+        "BRAND_760": "#190b42",
+        "BRAND_800": "#170b39",
+        "BRAND_830": "#11072c",
+        "BRAND_860": "#11072c",
+        "BRAND_900": "#080416",
+        "YELLOW_300": "##220e58",
+        "RED_400": "#220e58",
+        "GREEN_360": "#0b646b"
+    },
+    "spec": 2
+}
